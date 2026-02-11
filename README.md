@@ -1,0 +1,2 @@
+# NextProj
+Tutorial for NextJS
